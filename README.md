@@ -5,7 +5,12 @@
 
 ## Contents
 
+- [Others](#others)
 - [TypeScript](#typescript)
+
+## Others 
+
+- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 
 ## TypeScript 
 
