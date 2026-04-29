@@ -7,6 +7,7 @@
 
 - [Others](#others)
 - [Python](#python)
+- [Rust](#rust)
 - [TypeScript](#typescript)
 
 ## Others 
@@ -16,6 +17,10 @@
 ## Python 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
+## Rust 
+
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
 ## TypeScript 
 
