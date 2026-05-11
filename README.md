@@ -6,8 +6,8 @@
 ## Contents
 
 - [Dockerfile](#dockerfile)
+- [JavaScript](#javascript)
 - [Others](#others)
-- [Python](#python)
 - [Rust](#rust)
 - [TypeScript](#typescript)
 
@@ -15,14 +15,14 @@
 
 - [linuxserver/docker-obsidian](https://github.com/linuxserver/docker-obsidian) - 
 
+## JavaScript 
+
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
 ## Others 
 
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
-
-## Python 
-
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 ## Rust 
 
