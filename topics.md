@@ -17,6 +17,7 @@
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [others](#others)
+- [php](#php)
 - [productivity](#productivity)
 - [prompt-engineering](#prompt-engineering)
 - [rust](#rust)
@@ -72,6 +73,10 @@
 
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [entropyconquers/react-native-reanimated-dnd](https://github.com/entropyconquers/react-native-reanimated-dnd) - A powerful, performant drag-and-drop library for React Native built on Reanimated 4 and Gesture Handler. Smooth 60fps animations, sortable lists & grids, collision detection, and full TypeScript suppo
+
+## php 
+
+- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A universal web-util for PHP.
 
 ## productivity 
 
