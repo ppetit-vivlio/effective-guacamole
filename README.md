@@ -8,6 +8,7 @@
 - [Dockerfile](#dockerfile)
 - [JavaScript](#javascript)
 - [Others](#others)
+- [PHP](#php)
 - [Rust](#rust)
 - [TypeScript](#typescript)
 
@@ -23,6 +24,10 @@
 
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
+
+## PHP 
+
+- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A universal web-util for PHP.
 
 ## Rust 
 
