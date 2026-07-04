@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [automation](#automation)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [developer-tools](#developer-tools)
@@ -34,6 +35,11 @@
 ## automation 
 
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+
+## claude 
+
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 ## claude-code 
 
