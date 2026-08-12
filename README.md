@@ -6,7 +6,7 @@
 ## Contents
 
 - [Dockerfile](#dockerfile)
-- [JavaScript](#javascript)
+- [Go](#go)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -17,7 +17,7 @@
 
 - [linuxserver/docker-obsidian](https://github.com/linuxserver/docker-obsidian) - 
 
-## JavaScript 
+## Go 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
