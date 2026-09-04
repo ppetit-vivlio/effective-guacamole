@@ -11,6 +11,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 
 ## Dockerfile 
@@ -36,6 +37,10 @@
 ## Rust 
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+
+## Shell 
+
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 
 ## TypeScript 
 
